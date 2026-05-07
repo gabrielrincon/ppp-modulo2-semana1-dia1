@@ -1,23 +1,27 @@
 Temas actuales de comunicación digital – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
+Nombre del estudiante:carolina_fuentes_bello
 Fecha:
-Nombre de la rama:
+Nombre de la rama:carolina_fuentes_bello
 
 Lee los temas sugeridos por el docente de comunicaciones durante la clase y responde.
 
 1. ¿Qué tema actual se mencionó en la clase?
 Ejemplos: desinformación, IA generativa, confianza en noticias, convivencia digital, gobernanza de plataformas, violencia digital, participación juvenil.
 
-Respuesta:
+Respuesta:se mensiona la desinformacion la ia generativa en el ejemplo de 
+la inflacion, que hay que buscar las fuentes para asi generar confianza
+en las noticias.
 
 2. ¿Por qué ese tema afecta la participación ciudadana?
 
-Respuesta:
+Respuesta:porque al estar desinformados podemos repilcar noticias falsas
+afectando como participan las personas
 
 3. ¿Qué riesgo puede generar para una comunidad?
 
-Respuesta:
+Respuesta:Puede generar divisiones internas, pánico innecesario o
+ conflictos entre vecinos basados en mentiras.
 
 4. ¿Qué acción responsable podría tomar una comunidad frente a ese tema?
 
@@ -25,4 +29,7 @@ Respuesta:
 
 5. ¿Cómo podría ayudar una plataforma digital comunitaria a informar mejor sobre ese tema?
 
-Respuesta:
+Respuesta:Crear un comité de verificación de datos o designar voceros
+ oficiales que confirmen la información antes de compartirla. También, 
+ promover talleres básicos sobre cómo identificar imágenes generadas 
+ por IA y fomentar el hábito de preguntar siempre

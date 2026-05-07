@@ -1,12 +1,15 @@
 const express = require("express")
 
 const app = express()
-const puerto = 3000
+const puerto = 3005
 
 app.use(express.text())
 
 app.get("/", (req, res) => {
   res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable.")
+})
+app.get("/comprobando", (req, res) => {
+  res.send("esto es grandioso.")
 })
 
 app.get("/campania", (req, res) => {
@@ -31,7 +34,7 @@ app.use((req, res) => {
 })
 
 app.listen(puerto, () => {
-  console.log("Servidor Express funcionando en http://localhost:3000")
+  console.log("Servidor Express funcionando en http://localhost:" + puerto)
   console.log("Rutas disponibles:")
   console.log("GET  /")
   console.log("GET  /campania")

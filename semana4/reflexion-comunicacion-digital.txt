@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital responsable – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
+Nombre del estudiante:carolina_fuentes_bello
 Fecha:
-Nombre de la rama:
+Nombre de la rama:carolina_fuentes_bello
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,15 @@ En tu respuesta menciona al menos dos de estas ideas:
 - transparencia
 
 Respuesta:
+Estas herramientas son esenciales porque transforman la comunicación 
+en un ejercicio de transparencia, permitiendo que la gestión comunitaria
+ sea visible y auditable por todos. Al centralizar la información
+  verídica, se logra una efectiva prevención de desinformación, evitando
+   que los rumores dividan a los vecinos o generen conflictos innecesarios.
+
+Por otro lado, facilitan la participación ciudadana, ya que ofrecen un
+ canal directo para que cualquier persona pueda proponer soluciones y 
+ sentirse parte activa del progreso local. Esto no solo mejora la
+  convivencia, sino que fortalece la confianza comunitaria, creando un
+   entorno donde el diálogo responsable y la claridad informativa son 
+   los pilares de la organización social.
