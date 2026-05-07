@@ -1,8 +1,8 @@
 Bitácora de comando – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:carolina fuentes bello
+Fecha:7/5/26
+Nombre de la rama:carolina_fuentes_bello
 
 Comando nuevo del día:
 npm install express
@@ -11,56 +11,56 @@ Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta:git clone
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta:cd ppp 
 
 3. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta:git checkout -b
 
 4. Comando usado para verificar la rama:
 
-Respuesta:
+Respuesta:git branch
 
 5. Comando usado para instalar Express:
 
-Respuesta:
+Respuesta:npm install express
 
 6. Comando usado para levantar el servidor:
 
-Respuesta:
+Respuesta:npm start
 
 7. Ruta abierta para probar la página principal:
 
-Respuesta:
+Respuesta: http://localhost:3000
 
 8. Ruta abierta para probar la campaña:
 
-Respuesta:
+Respuesta:http://localhost:3000/campania
 
 9. Ruta abierta para probar avisos:
 
-Respuesta:
+Respuesta:http://localhost:3000/avisos
 
 10. Comando usado para probar POST:
 
-Respuesta:
+Respuesta:node cliente-post.js
 
 11. Comando usado para revisar cambios en Git:
 
-Respuesta:
+Respuesta:git status
 
 12. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta:git add .
 
 13. Comando usado para crear commit:
 
-Respuesta:
+Respuesta:git commit -m "Introduccion a Express modulo 2 semana 1 dia 1"
 
 14. Comando usado para publicar la rama:
 
-Respuesta:
+Respuesta:git push -u origin nombres_apellidos

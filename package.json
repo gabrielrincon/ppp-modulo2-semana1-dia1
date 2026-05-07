@@ -4,10 +4,12 @@
     "description": "Servidor Express básico para comunicación digital responsable.",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js",
-      "post": "node cliente-post.js"
+        "start": "node server.js",
+        "post": "node cliente-post.js"
     },
     "author": "Programa Capacitación en Democracia y Tecnología",
-    "license": "MIT"
-  }
-  
+    "license": "MIT",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
