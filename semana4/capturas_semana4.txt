@@ -1,0 +1,7 @@
+Capturas de evidencia:
+1. Servidor Express funcionando en puerto 3000
+2. Respuesta de curl http://localhost:3000
+3. Respuesta de curl http://localhost:3000/campania 
+4. Ejecución de node cliente-post.js enviando propuesta
+5. Estructura de carpetas con ls
+Nota: Las capturas de pantalla se adjuntan en el repositorio o documento de entrega.

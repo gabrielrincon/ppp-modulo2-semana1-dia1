@@ -6,15 +6,15 @@ const puerto = 3000
 app.use(express.text())
 
 app.get("/", (req, res) => {
-  res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable.")
+  res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable con un lenguaje claro.")
 })
 
 app.get("/campania", (req, res) => {
-  res.send("Campaña: comunicación clara, convivencia digital y participación ciudadana.")
+  res.send("Campaña: comunicación clara, convivencia digital y participación ciudadana para un mejor desarrollo de la comunidad.")
 })
 
 app.get("/avisos", (req, res) => {
-  res.send("Avisos comunitarios: verificar información, cuidar el lenguaje y evitar rumores.")
+  res.send("Avisos comunitarios: verificar información, cuidar el lenguaje y evitar rumores que pueden ser falsos y confunden q la ciudadania.")
 })
 
 app.post("/propuestas", (req, res) => {
@@ -23,7 +23,7 @@ app.post("/propuestas", (req, res) => {
   console.log("Propuesta recibida:")
   console.log(propuesta)
 
-  res.send("Propuesta recibida por la plataforma comunitaria: " + propuesta)
+  res.send("Propuesta recibida por la plataforma comunitaria para el avence de la comunidad: " + propuesta)
 })
 
 app.use((req, res) => {
