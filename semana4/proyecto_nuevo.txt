@@ -1,0 +1,5 @@
+Proyecto Semana 4 - Comunicación Digital Responsable
+Autor: Jamer Guerrero
+Objetivo: Crear un servidor Express que promueva la comunicación digital responsable en Barranquilla.
+El servidor incluye rutas para campañas contra fake news, avisos comunitarios y recepción de propuestas ciudadanas.
+Tecnologías: Node.js, Express, Termux en Android.

@@ -1,0 +1,3 @@
+Trabajé de forma individual usando recursos digitales y asistencia de IA para resolver dudas técnicas.
+La colaboración fue a través de consulta de documentación oficial de Node.js y Express.
+Aprendí a pedir ayuda específica cuando me bloqueé con los comandos de Termux y nano.

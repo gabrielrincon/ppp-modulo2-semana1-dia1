@@ -1,0 +1,4 @@
+Durante esta semana aprendí a crear un servidor web con Express desde mi celular usando Termux. 
+Entendí la importancia de la comunicación digital responsable para combatir las noticias falsas en mi comunidad.
+El mayor reto fue configurar el entorno y entender los métodos GET y POST.
+Este proyecto me permite aportar a Barranquilla promoviendo la verificación de información antes de compartir.
