@@ -1,15 +1,15 @@
 const express = require("express")
 
 const app = express()
-const puerto = 3000
+const puerto = 3005
 
 app.use(express.text())
 
-app.get("/", (req, res) => {
-  res.send("Bienvenida comunidad. Este es un servidor Express para comunicación digital responsable.")
+app.get("/saludo", (req, res) => {
+  res.send("Hola a todos, damos la bienvenida a esta comunidad, donde podemos participar y dialogar entr todos.")
 })
 
-app.get("/campania", (req, res) => {
+app.get("/campaña", (req, res) => {
   res.send("Campaña: comunicación clara, convivencia digital y participación ciudadana.")
 })
 
@@ -31,10 +31,9 @@ app.use((req, res) => {
 })
 
 app.listen(puerto, () => {
-  console.log("Servidor Express funcionando en http://localhost:3000")
+  console.log("Servidor Express funcionando en http://localhost:3005")
   console.log("Rutas disponibles:")
-  console.log("GET  /")
-  console.log("GET  /campania")
-  console.log("GET  /avisos")
-  console.log("POST /propuestas")
-})
+  console.log("GET  /saludo")
+  console.log("GET  /campaña")
+  console.log("GET  /complementos")
+  console.log("POST /propuestas");
