@@ -1,6 +1,6 @@
 const http = require("http")
 
-const datos = "Propuesta: crear una campaña comunitaria contra la desinformación."
+const datos = "Propuesta: crear nuevos post que hablen sobre las fake news."
 
 const opciones = {
   hostname: "localhost",
