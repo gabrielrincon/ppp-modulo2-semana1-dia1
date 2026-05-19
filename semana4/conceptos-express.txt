@@ -1,47 +1,60 @@
 Conceptos básicos de Express – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 19/5/26
+Nombre de la rama: angelica_tejera
 
 Responde con tus propias palabras.
 
 1. ¿Qué es Express?
 
-Respuesta:
+Respuesta: Es un marco de trabajo
+Sirve para simplificar la creación de servidores web y API
+facilitando el manejo de rutas, peticiones y respuestas sin tener que escribir código desde cero.
 
 2. ¿Qué diferencia básica hay entre Node.js y Express?
 
-Respuesta:
+Respuesta:Node.js es el entorno de ejecución que permite correr JavaScript en la computadora (fuera del navegador), es decir, es el motor.
+Express es una herramienta (librería) que se monta encima de Node.js para construir el servidor web de manera mucho más rápida y organizada.
 
 3. ¿Qué hace el comando npm install express?
 
-Respuesta:
+Respuesta: Descarga los archivos de la librería Express desde el registro de paquetes de Node (NPM) y los guarda dentro de la carpeta node_modules
+de tu proyecto, además de registrar la dependencia en tu archivo package.json.
 
 4. ¿Qué hace el comando npm start en esta práctica?
 
-Respuesta:
+Respuesta: corre internamente node server.js), levantando el servicio en el puerto asignado.
 
 5. ¿Qué es una ruta en Express?
 
-Respuesta:
+Respuesta: Es una dirección URL específica combinada con un método HTTP (como GET o POST).
+Funciona como un "camino" o punto de entrada que le dice al servidor exactamente
+qué parte del código debe ejecutar cuando un usuario o cliente visita esa dirección.
 
 6. ¿Para qué usamos una ruta GET?
 
-Respuesta:
+Respuesta: Se usa exclusivamente para solicitar o pedir información al servidor.
+Por ejemplo, cuando entras desde el navegador para ver la página de inicio
+sin modificar nada en el sistema.
 
 7. ¿Para qué usamos una ruta POST?
 
-Respuesta:
+Respuesta: Se usa para enviar o registrar datos nuevos hacia el servidor.
+Por ejemplo, cuando un usuario llena un formulario para enviar una propuesta comunitaria.
 
 8. ¿Qué significa req en una ruta?
 
-Respuesta:
+Respuesta: Significa Request (Petición). Es un objeto que contiene toda la información que viene desde el cliente o navegador hacia el servidor
 
 9. ¿Qué significa res en una ruta?
 
-Respuesta:
+Respuesta:Significa Response (Respuesta). Es el objeto que utiliza el servidor para enviarle de vuelta la contestación al cliente
+(como un texto con res.send(), una página web o un estado de éxito/error).
 
 10. ¿Cómo puede servir Express para construir herramientas de comunicación comunitaria?
 
-Respuesta:
+Respuesta: Sirve como el motor invisible que centraliza y conecta la información.
+Con Express se pueden crear plataformas locales ágiles donde la comunidad comparta avisos en tiempo real
+reciba actualizaciones de campañas sociales
+envíe propuestas directamente a los líderes del proyecto o acceda a canales de soporte técnico y social desde cualquier celular o computadora con acceso a la red local.

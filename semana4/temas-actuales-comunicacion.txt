@@ -1,28 +1,37 @@
 Temas actuales de comunicación digital – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 19/5/26
+Nombre de la rama: angelica_tejera
 
 Lee los temas sugeridos por el docente de comunicaciones durante la clase y responde.
 
 1. ¿Qué tema actual se mencionó en la clase?
 Ejemplos: desinformación, IA generativa, confianza en noticias, convivencia digital, gobernanza de plataformas, violencia digital, participación juvenil.
 
-Respuesta:
+Respuesta: El tema principal mencionado es la desinformación (y cómo esta afecta directamente la
+confianza en las noticias y la convivencia comunitaria).
 
 2. ¿Por qué ese tema afecta la participación ciudadana?
 
-Respuesta:
+Respuesta: Porque cuando las personas reciben datos falsos, manipulados o confusos, pierden la confianza en las instituciones y en sus propios vecinos.
+. Esto hace que los ciudadanos se sientan desmotivados, sospechen de las iniciativas locales y dejen de involucrarse o votar en los proyectos comunitarios por miedo a ser engañados.
 
 3. ¿Qué riesgo puede generar para una comunidad?
 
-Respuesta:
+Respuesta: Puede generar polarización, conflictos internos y dañar gravemente la convivencia.
 
 4. ¿Qué acción responsable podría tomar una comunidad frente a ese tema?
 
-Respuesta:
+Respuesta: Implementar una cultura de verificación antes de compartir cualquier información.
+Esto incluye educar a los vecinos para que duden de las cadenas de WhatsApp sin fuente clara
+buscar siempre voceros oficiales o medios confiables, y promover el uso de un lenguaje claro
+ transparente en todas las comunicaciones del barrio o municipio.
 
 5. ¿Cómo podría ayudar una plataforma digital comunitaria a informar mejor sobre ese tema?
 
-Respuesta:
+Respuesta: Puede ayudar funcionando como un canal único y oficial de verificación de datos.
+A través de la plataforma, los líderes pueden publicar comunicados oficiales, desmentir rumores falsos rápidamente
+y permitir que los ciudadanos consulten directamente la fuente real del proyecto o aviso
+centralizando la información para que sea accesible y transparente para todos.
+
