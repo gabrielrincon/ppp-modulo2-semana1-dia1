@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital responsable – Módulo 2 Semana 1 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 19/5/26
+Nombre de la rama: angelica_tejera
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - transparencia
 
 Respuesta:
+Una comunidad necesita herramientas digitales eficientes porque fortalecen la participación
+ciudadana, permitiendo que cada habitante sea escuchado de manera directa al enviar sus
+propuestas. Al publicar información bajo los principios de transparencia y lenguaje claro, se mitiga
+el alcance de los rumores y se fomenta la prevención de desinformación en el entorno local. Esto
+consolida una sólida confianza comunitaria, donde los canales digitales se transforman en espacios
+de diálogo seguro. Así, la tecnología no solo optimiza la gestión social, sino que construye una
+convivencia digital sana que sienta las bases para una verdadera cultura de paz.
